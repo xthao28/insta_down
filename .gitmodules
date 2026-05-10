@@ -1,0 +1,6 @@
+[submodule "mobile"]
+	path = mobile
+	url = git@github.com:xthao28/insta_down_mobile.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:xthao28/insta_down_backend.git
